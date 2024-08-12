@@ -5,28 +5,14 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
+# Enabling Artificial Intelligence into Cybersecurity Education: A Comprehensive Data-driven Approach
 
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
+This repository contains the data and code used in our paper, "Enabling Artificial Intelligence into Cybersecurity Education: A Comprehensive Data-driven Approach".
 
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
-</div>
-</div>
-<br/>
+In the first step, we explain our data collection process. In the second step, we provide the code for our data preprocessing and analysis. Our data collection is located under a different folder that can be used to replicate our results. Finally, in the third step, we provide the code to visualize our results. To reproduce our results, you can use our raw data and proceed to the second step.
 
-### About me
+# [1. Data Collection](#1-data-collection)
+For our data collection, we gathered over 5000 cybersecurity research papers from top cybersecurity conferences and journals (e.g., NDSS, USENIX, ACM CCS, and IEEE S&P). We gathered papers concerning computer security topics. After we collected our raw data, we adjusted a pre-trained model to filter the papers that have a higher probability of using AI topics. We then divide the papers into three distinct categories: AI-positive, AI-neutral, and AI-negative. For our analysis and results, we only considered the AI-positive papers.
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+
+
