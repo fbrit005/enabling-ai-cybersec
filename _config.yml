@@ -1,7 +1,8 @@
 # Site settings
-name: Enabling Artificial Intelligence into Cybersecurity Education
+title: Enabling Artificial Intelligence into Cybersecurity Education
 email: suluagac@fiu.edu
-description: This repository contains the data and code used in our paper, "Enabling Artificial Intelligence into Cybersecurity Education A Comprehensive Data-driven Approach".
+description: |
+This repository contains the data and code used in our paper, "Enabling Artificial Intelligence into Cybersecurity Education A Comprehensive Data-driven Approach".
 baseurl: ""
 url: ""
 
