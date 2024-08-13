@@ -2,7 +2,7 @@
 title: "Results"
 layout: gridlay
 sitemap: false
-permalink: /software/
+permalink: /results/
 ---
 
 <style>
