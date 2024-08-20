@@ -118,6 +118,3 @@ permalink: /team/
 {% endif %}
 </div>
 
-## Administrative Support
-
-<a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
