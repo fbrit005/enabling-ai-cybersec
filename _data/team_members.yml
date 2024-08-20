@@ -3,6 +3,7 @@
   info: Graduate Student researcher
   email: ymekdad@fiu.edu											
   website: https://ymekdad.com
+  scholar: https://scholar.google.com/citations?user=LaSyv7EAAAAJ&hl=en
 
 - name: Alejandro Perez Pestaña
   photo: placeholder.png
@@ -15,3 +16,9 @@
   info: Undergraduate Student Researcher
   email: fbrit005@fiu.edu
 
+- name: Mark Alan Finlayson
+  photo: placeholder.png
+  info: Associate Professor of Computer Science, Florida International University
+  email: markaf@fiu.edu
+  website: https://users.cs.fiu.edu/~markaf/
+  scholar: https://scholar.google.com/citations?user=X8peo3AAAAAJ&hl=en
