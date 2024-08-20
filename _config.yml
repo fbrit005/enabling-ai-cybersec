@@ -26,14 +26,14 @@ contact: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
+  #- name: about
   #- name: publications
-  - name: talks
+  #- name: talks
   - name: research
   - name: results
   - name: team
-  - name: teaching
-  - name: blogs
+  #- name: teaching
+  #- name: blogs
 
 include:
   - .htaccess
