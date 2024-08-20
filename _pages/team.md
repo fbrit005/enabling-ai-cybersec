@@ -9,7 +9,7 @@ permalink: /team/
 
 **We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## PI
+## Primary Investigator
 
 {% for member in site.data.pi %}
 
