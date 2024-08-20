@@ -1,9 +1,16 @@
-- name: Example student name
-  photo: rock.jpg
-  info: Postdoc, started Oct 2040
-  email: exampleemail@gmail.com
-  website: https://website.com
+- name: Yassine Mekdad
+  photo: yassine-profile.jpg
+  info: Graduate Student researcher
+  email: ymekdad@fiu.edu											
+  website: https://ymekdad.com
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="www">openings</a> for more info
+- name: Alejandro Perez Pestaña
+  photo: placeholder.png
+  info: Undergraduate Student Researcher
+
+
+
+- name: Fernando Brito
+  photo: placeholder.png
+  info: Undergraduate Student Researcher
+  email: fbrit005@fiu.edu
