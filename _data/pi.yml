@@ -2,7 +2,7 @@
   photo: uluagac-profile.jpg
   info: Selcuk A. Uluagac Professor, Florida International University
   email: suluagac@fiu.edu
-  personal web: http://nweb.eng.fiu.edu/selcuk/           
+  website: http://nweb.eng.fiu.edu/selcuk/           
   scholar: https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en
   
   # Change the items in "education" you have (up to 6)
@@ -13,4 +13,4 @@
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["Ph.D Cybersecurity, Georgia Tech", "M.S. Cybersecurity, Carnegie Mellon University"]
