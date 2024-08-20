@@ -45,7 +45,7 @@ iframe {
 <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 
-# [3. Results](#3-results)
+# [Results](results)
 
 ## Visualizing results from co-occurrence matrix.
 We include a way to visualize the results from the "Results.xlsx" excel file. This method uses jupyter notebook.
