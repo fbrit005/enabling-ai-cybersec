@@ -1,5 +1,11 @@
 - name: Abbas Acar
   photo: placeholder.png
   duration: In the lab 2021-2023
-  info: Now a Senior Research Scientist at Harbor Labs
+  info: Senior Research Scientist at Harbor Labs
   github: https://abbasacar.github.io
+
+- name: Monique Ross
+  photo: placeholder.png
+  info: Associate Professor in the Engineering Education Department at The Ohio State University
+  email: ross.1982@osu.edu
+  website: https://www.moniqueross.com
