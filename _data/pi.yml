@@ -1,16 +1,15 @@
-- name: Dr. Richard Feynman
-  photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+- name: Dr. Selcuk A. Uluagac
+  photo: uluagac-profile.jpg
+  info: Selcuk A. Uluagac Professor, Florida International University
+  email: suluagac@fiu.edu
+  personal web: http://nweb.eng.fiu.edu/selcuk/           
+  scholar: https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en
+  
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "Ph.D Cybersecurity, Georgia Tech",
+      "M.S. Cybersecurity, Carnegie Mellon University",
     ]
 
   educationshort:
