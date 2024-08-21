@@ -9,8 +9,6 @@
   photo: placeholder.png
   info: Undergraduate Student Researcher
 
-
-
 - name: Fernando Brito
   photo: placeholder.png
   info: Undergraduate Student Researcher
@@ -18,15 +16,16 @@
 
 - name: Abbas Acar
   photo: abbas-profile.jpg
-  duration: In the lab 2021-2023
   info: Senior Research Scientist at Harbor Labs
   github: https://abbasacar.github.io
+  scholar: https://scholar.google.com/citations?user=-LVF4y0AAAAJ&hl=en&oi=sra
 
 - name: Monique Ross
   photo: monique-profile.jpg
   info: Associate Professor in the Engineering Education Department at The Ohio State University
   email: ross.1982@osu.edu
   website: https://www.moniqueross.com
+  scholar: https://scholar.google.com/citations?user=LtfU7CgAAAAJ&hl=en&oi=sra
 
 - name: Mark Alan Finlayson
   photo: mark-profile.png
