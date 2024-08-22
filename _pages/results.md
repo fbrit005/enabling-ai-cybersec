@@ -56,7 +56,7 @@ Run Concurrence.ipynb to visualize results from the Excel file.
 These results are organized as "Computer Security Terms" and "Machine Learning Terms".
 ```
 - Co-occurrence Matrix: [View Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlzZ3fRMdN2P2LnPjoNdOq5nD1CJ10mdDPOeryGm34sT664eso8VKEIItXu-_vYXYtTkl5S7MZBQJ8/pubhtml)
-
+</div>
 </div>
 </div>
 
@@ -97,7 +97,7 @@ Run Survey_Grading.ipynb to visualize our student performance results.
 We consider only the results of survey-to-lecture analysis in our paper.
 ```
 - Survey Results: [View Grades](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2/blob/main/Survey_Grading.ipynb)
-
+</div>
 </div>
 </div>
 
