@@ -37,7 +37,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>[Data Collection]</h4>
+<h4>[Data Collection](data-collection)</h4>
 
 For our data collection, we gathered over 5000 cybersecurity research papers from top cybersecurity conferences and journals (e.g., NDSS, USENIX, ACM CCS, and IEEE S&P). We gathered papers concerning computer security topics. After we collected our raw data, we adjusted a pre-trained model to filter the papers that have a higher probability of using AI topics. We then divide the papers into three distinct categories: AI-positive, AI-neutral, and AI-negative. For our analysis and results, we only considered the AI-positive papers.
 </div>
