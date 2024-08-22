@@ -45,7 +45,7 @@ iframe {
 <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 
-# [Results](results)
+# [Project 1 Results](https://github.com/cslfiu/NSF_EAGER_SaTC_Project)
 
 ## Visualizing results from co-occurrence matrix.
 We include a way to visualize the results from the "Results.xlsx" excel file. This method uses jupyter notebook.
@@ -56,6 +56,11 @@ Run Concurrence.ipynb to visualize results from the Excel file.
 These results are organized as "Computer Security Terms" and "Machine Learning Terms".
 ```
 - Co-occurrence Matrix: [View Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlzZ3fRMdN2P2LnPjoNdOq5nD1CJ10mdDPOeryGm34sT664eso8VKEIItXu-_vYXYtTkl5S7MZBQJ8/pubhtml)
+</div>
+</div>
+
+## Survey Analysis
+
 
 ## Cite our work
 If you use any material from this repository, please cite the following work::
