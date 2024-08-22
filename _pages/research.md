@@ -37,7 +37,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>[Data Collection](data-collection)</h4>
+<h4>[Data Collection](https://github.com/cslfiu/NSF_EAGER_SaTC_Project)</h4>
 
 For our data collection, we gathered over 5000 cybersecurity research papers from top cybersecurity conferences and journals (e.g., NDSS, USENIX, ACM CCS, and IEEE S&P). We gathered papers concerning computer security topics. After we collected our raw data, we adjusted a pre-trained model to filter the papers that have a higher probability of using AI topics. We then divide the papers into three distinct categories: AI-positive, AI-neutral, and AI-negative. For our analysis and results, we only considered the AI-positive papers.
 </div>
@@ -45,7 +45,7 @@ For our data collection, we gathered over 5000 cybersecurity research papers fro
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>[Analysis](analysis)</h4>
+<h4>[Analysis](https://github.com/cslfiu/NSF_EAGER_SaTC_Project)</h4>
 
 ## Setup Instructions
 **1. Install all packages and download any commented sections.**
@@ -87,10 +87,13 @@ Once the analysis is complete, an Excel file will be created named "Results.xlsx
 <h4>[Data Collection](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2)</h4>
 
 For our data collection, we distributed two surveys within a lecture titled "A Lecture on Artificial Intelligence, Machine Learning, and Deep Learning: From Theory to Practice". We collected data using the Qualtrics platform and distributed the surveys via anonymous links or anonymous QR codes. The first survey contains questions about demographics, cybersecurity, AI models, and their corresponding performance metrics. The second survey contains questions regarding demographics, AI metrics, AI models, Deep Learning, and AI training.
+</div>
+</div>
+
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>[Pre-processing and Analysis](pre-processing-and-analysis)</h4>
+<h4>[Pre-processing and Analysis](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2)</h4>
 
 ## Setup Instructions
 
