@@ -34,7 +34,7 @@ iframe {
 }
 </style>
 
-## All Project Results
+## AI and Cybersecurity Analysis
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -45,7 +45,7 @@ iframe {
 <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 
-# AI and Cybersecurity Analysis
+
 
 ## Co-occurrence Matrix Visualization
 We include a way to visualize the results from the "Results.xlsx" excel file. This method uses jupyter notebook.
