@@ -39,13 +39,13 @@ iframe {
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>Paper Results</b></h4>
+<h4><b>Project 1 Results</b></h4>
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlzZ3fRMdN2P2LnPjoNdOq5nD1CJ10mdDPOeryGm34sT664eso8VKEIItXu-_vYXYtTkl5S7MZBQJ8/pubhtml" target="_blank"><button class="btn btn-success btn-sm">VIEW MATRIX</button></a>
 <a href="https://github.com/cslfiu/NSF_EAGER_SaTC_Project/blob/baeafab60bb6fe70ef0c112bac03a917f448d724/Concurrence.ipynb" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
 
-# [Project 1 Results](https://github.com/cslfiu/NSF_EAGER_SaTC_Project)
+# Paper Results
 
 ## Visualizing results from co-occurrence matrix.
 We include a way to visualize the results from the "Results.xlsx" excel file. This method uses jupyter notebook.
@@ -59,12 +59,30 @@ These results are organized as "Computer Security Terms" and "Machine Learning T
 </div>
 </div>
 
-## Survey Analysis
+## Lecture Survey Analysis
 
 
 ## Cite our work
 If you use any material from this repository, please cite the following work::
 
-</div>
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+<h4><b>Project 2 Results</b></h4>
+<a href="https://github.com/cslfiu/NSF_Eager_SaTC_Project_2" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
+
+## Topic Distribution
+
+```bash
+Run survey_topics.ipynb to visualize survey topic distribution results.
+
+These results are the topic distribution based on the pre-lecture and post-lecture surveys.
+```
+- Pre-lecture Topic Distribution: [View Distribution](https://colab.research.google.com/drive/1410NmX1utoXlFE-sM_5ru5obevfaExDV#scrollTo=oe2rNMR4x4Eb)
+- Post-lecture Topic Distribution: [View Distribution](https://colab.research.google.com/drive/1410NmX1utoXlFE-sM_5ru5obevfaExDV#scrollTo=oe2rNMR4x4Eb)
+
+##
+
 </div>
 </div>
