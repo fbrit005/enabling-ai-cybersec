@@ -84,7 +84,7 @@ Once the analysis is complete, an Excel file will be created named "Results.xlsx
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>[Data Collection](data-collection)</h4>
+<h4>[Data Collection](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2)</h4>
 
 For our data collection, we distributed two surveys within a lecture titled "A Lecture on Artificial Intelligence, Machine Learning, and Deep Learning: From Theory to Practice". We collected data using the Qualtrics platform and distributed the surveys via anonymous links or anonymous QR codes. The first survey contains questions about demographics, cybersecurity, AI models, and their corresponding performance metrics. The second survey contains questions regarding demographics, AI metrics, AI models, Deep Learning, and AI training.
 
