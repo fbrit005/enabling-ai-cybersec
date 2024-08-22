@@ -58,12 +58,9 @@ These results are organized as "Computer Security Terms" and "Machine Learning T
 - Co-occurrence Matrix: [View Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlzZ3fRMdN2P2LnPjoNdOq5nD1CJ10mdDPOeryGm34sT664eso8VKEIItXu-_vYXYtTkl5S7MZBQJ8/pubhtml)
 </div>
 </div>
+</div>
 
 ## Lecture Survey Analysis
-
-
-## Cite our work
-If you use any material from this repository, please cite the following work::
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -82,7 +79,10 @@ These results are the topic distribution based on the pre-lecture and post-lectu
 - Pre-lecture Topic Distribution: [View Distribution](https://colab.research.google.com/drive/1410NmX1utoXlFE-sM_5ru5obevfaExDV#scrollTo=oe2rNMR4x4Eb)
 - Post-lecture Topic Distribution: [View Distribution](https://colab.research.google.com/drive/1410NmX1utoXlFE-sM_5ru5obevfaExDV#scrollTo=oe2rNMR4x4Eb)
 
-##
+## Feedback Analysis
 
 </div>
 </div>
+
+## Cite our work
+If you use any material from this repository, please cite the following work::
