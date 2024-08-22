@@ -79,3 +79,53 @@ Once the analysis is complete, an Excel file will be created named "Results.xlsx
 
 </div>
 </div>
+
+## Project 2
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>[Data Collection](data-collection)</h4>
+
+For our data collection, we distributed two surveys within a lecture titled "A Lecture on Artificial Intelligence, Machine Learning, and Deep Learning: From Theory to Practice". We collected data using the Qualtrics platform and distributed the surveys via anonymous links or anonymous QR codes. The first survey contains questions about demographics, cybersecurity, AI models, and their corresponding performance metrics. The second survey contains questions regarding demographics, AI metrics, AI models, Deep Learning, and AI training.
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h4>[Pre-processing and Analysis](pre-processing-and-analysis)</h4>
+
+## Setup Instructions
+
+**1. Install all packages and download any commented sections.**
+```bash
+#import packages
+import nltk
+import spacy
+import pandas as pd
+#etc...
+
+
+#uncomment and download
+nltk.download()
+spacy.cli.download("en_core_web_lg")
+```
+
+**2. Run all jupyter notebooks to completion.**
+```bash
+1. lecture_text_extractor.ipynb
+2. survey_topics.ipynb
+3. Survey_Grading.ipynb
+4. Feedback_Analysis.ipynb
+```
+
+## Reproducibility Instructions
+Our code does not consider certain data and uses specific file names. To accurately reproduce this study, consider:
+
+1. [Lecture Extraction](./lecture_text_extractor.ipynb): This code extracts all the text in a PDF file using PyPDF2. Convert our lecture (or your own AI module) into a PDF and rename the file to Final_AI_ML_Lecture.pdf.
+
+2. [Topic Extraction](./survey_topics.ipynb): This code extracts topics and displays them as a topic distribution. Rename all survey CSV files to match the ones used in the code.
+
+3. [Survey Analysis](./Survey_Grading.ipynb): This code analyzes and scores the student performance before and after the lecture. Rename all survey CSV files as necessary (including the CSV with correct answers). Remove any extra columns provided by Qualtrics, stopping at the column with participant IDs. Remove any rows that contain unnecessary data provided by Qualtrics, stopping at the question number row. Make sure to download the extracted lecture text file.
+
+4. [Feedback Analysis](./Feedback_Analysis.ipynb): This code assess feedback analysis using sentimentality models. Make sure to remove any unnecessary data provided by Qualtrics as done in the previous step. Rename any CSV files as necessary.
+
+</div>
+</div>
