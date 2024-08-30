@@ -51,7 +51,7 @@ To that end, we follow a methodology that considers over 5000 research papers fr
 </div>
 </div>
 
-<img style="display: block; margin: auto;" src="proj1_meth.png"/>
+![Project 1 Methodology](https://github.com/fbrit005/enabling-ai-cybersec/blob/source/images/proj1_meth.png)
 
 
 ## Project 2
