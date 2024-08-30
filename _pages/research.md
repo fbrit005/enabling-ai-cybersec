@@ -37,10 +37,17 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>[Data Collection](https://github.com/cslfiu/NSF_EAGER_SaTC_Project)</h4>
+<h4>[Enabling Artificial Intelligence into Cybersecurity Education: A Comprehensive Data-driven Approach](https://github.com/cslfiu/NSF_EAGER_SaTC_Project)</h4>
 
-For our data collection, we gathered over 5000 cybersecurity research papers from top cybersecurity conferences and journals (e.g., NDSS, USENIX, ACM CCS, and IEEE S&P). We gathered papers concerning computer security topics. After we collected our raw data, we adjusted a pre-trained model to filter the papers that have a higher probability of using AI topics. We then divide the papers into three distinct categories: AI-positive, AI-neutral, and AI-negative. For our analysis and results, we only considered the AI-positive papers.
-</div>
+This repository contains the data and code used in our paper, "Enabling Artificial Intelligence into Cybersecurity Education: A Comprehensive Data-driven Approach".
+
+Cybersecurity researchers and practitioners have determined that modern cybersecurity methods are increasingly using AI techniques. However, the cybersecurity curriculum has not been updated to integrate such topics or techniques. Therefore, we find it imperative to find relevant topics in AI that are most commonly used within cybersecurity in order to form an explicit AI module that integrates AI concepts into cybersecurity.
+
+We ask the questions: What are the most common correlations between AI and cybersecurity topics? What are suitable AI topics to integrate in a module within the context of cybersecurity?
+
+To that end, we follow a methodology that considers over 5000 research papers from top-tier cybersecurity conferences and journals (e.g., NDSS, USENIX, ACM CCS, IEEE S\&P, and IEEE TIFS). We extracted AI-related keywords and used Natural Language Processing (NLP) techniques to identify AI concepts. Furthermore, we extracted cybersecurity keywords from a cybersecurity pilot course, incorporating additional keywords from cybersecurity academic textbooks. We used the extracted keywords to create a co-occurrence matrix. Finally, we created a specific AI module using the co-occurrence matrix for a cybersecurity course within an academic institution.
+
+<img src="proj1_meth.png" alt="Project 1 Methodology">
 </div>
 
 <div class="jumbotron">
