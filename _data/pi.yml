@@ -6,11 +6,11 @@
   scholar: https://scholar.google.com/citations?user=tcK62uAAAAAJ&hl=en
   
   # Change the items in "education" you have (up to 6)
-  education:
-    [
-      "Ph.D Cybersecurity, Georgia Tech",
-      "M.S. Cybersecurity, Carnegie Mellon University",
-    ]
+ # education:
+   # [
+    #  "Ph.D Cybersecurity, Georgia Tech",
+   #   "M.S. Cybersecurity, Carnegie Mellon University",
+    #]
 
-  educationshort:
-    ["Ph.D Cybersecurity, Georgia Tech", "M.S. Cybersecurity, Carnegie Mellon University"]
+  # educationshort:
+  #  ["Ph.D Cybersecurity, Georgia Tech", "M.S. Cybersecurity, Carnegie Mellon University"]
