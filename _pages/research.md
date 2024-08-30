@@ -58,51 +58,13 @@ To that end, we follow a methodology that considers over 5000 research papers fr
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>[Data Collection](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2)</h4>
+<h4>[Enhancing Cybersecurity Education with Artificial Intelligence Content](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2)</h4>
 
-For our data collection, we distributed two surveys within a lecture titled "A Lecture on Artificial Intelligence, Machine Learning, and Deep Learning: From Theory to Practice". We collected data using the Qualtrics platform and distributed the surveys via anonymous links or anonymous QR codes. The first survey contains questions about demographics, cybersecurity, AI models, and their corresponding performance metrics. The second survey contains questions regarding demographics, AI metrics, AI models, Deep Learning, and AI training.
-</div>
-</div>
+This repository contains the data and code used in our paper, "Enhancing Cybersecurity Education Through the Lens of Artificial Intelligence".
 
+Artificial Intelligence (AI) has become a fundamental tool for cybersecurity researchers and practitioners. It is frequently used to address major security problems such as supply chain attacks, ransomware threats, and social engineering. Yet, the current cybersecurity curriculum still suffers from the absence of AI resources, particularly the detailed understanding of the appropriate AI mechanisms.
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>[Pre-processing and Analysis](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2)</h4>
-
-## Setup Instructions
-
-**1. Install all packages and download any commented sections.**
-```bash
-#import packages
-import nltk
-import spacy
-import pandas as pd
-#etc...
-
-
-#uncomment and download
-nltk.download()
-spacy.cli.download("en_core_web_lg")
-```
-
-**2. Run all jupyter notebooks to completion.**
-```bash
-1. lecture_text_extractor.ipynb
-2. survey_topics.ipynb
-3. Survey_Grading.ipynb
-4. Feedback_Analysis.ipynb
-```
-
-## Reproducibility Instructions
-Our code does not consider certain data and uses specific file names. To accurately reproduce this study, consider:
-
-1. [Lecture Extraction](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2/blob/main/lecture_text_extractor.ipynb): This code extracts all the text in a PDF file using PyPDF2. Convert our lecture (or your own AI module) into a PDF and rename the file to Final_AI_ML_Lecture.pdf.
-
-2. [Topic Extraction](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2/blob/main/survey_topics.ipynb): This code extracts topics and displays them as a topic distribution. Rename all survey CSV files to match the ones used in the code.
-
-3. [Survey Analysis](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2/blob/main/Survey_Grading.ipynb): This code analyzes and scores the student performance before and after the lecture. Rename all survey CSV files as necessary (including the CSV with correct answers). Remove any extra columns provided by Qualtrics, stopping at the column with participant IDs. Remove any rows that contain unnecessary data provided by Qualtrics, stopping at the question number row. Make sure to download the extracted lecture text file.
-
-4. [Feedback Analysis](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2/blob/main/Feedback_Analysis.ipynb): This code assess feedback analysis using sentimentality models. Make sure to remove any unnecessary data provided by Qualtrics as done in the previous step. Rename any CSV files as necessary.
+To address this, we consider a methodology where we design an AI lecture module that can be integrated into any cybersecurity course. We then present the module to several cybersecurity courses in our institution and assess their performance before and after the lecture. Our AI lecture is composed of a pre-lecture survey, the AI module, live AI examples, and a post-lecture survey.
 
 </div>
 </div>
