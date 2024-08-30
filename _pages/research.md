@@ -53,7 +53,6 @@ To that end, we follow a methodology that considers over 5000 research papers fr
 <img src="proj1_meth.png" alt="Project 1 Methodology">
 
 </div>
-</div>
 
 ## Project 2
 
