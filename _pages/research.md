@@ -49,10 +49,10 @@ To that end, we follow a methodology that considers over 5000 research papers fr
 
 
 </div>
-
-<img src="proj1_meth.png" alt="Project 1 Methodology">
-
 </div>
+
+<img style="display: block; margin: auto;" src="proj1_meth.png"/>
+
 
 ## Project 2
 
