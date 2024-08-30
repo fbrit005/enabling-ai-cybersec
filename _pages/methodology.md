@@ -1,5 +1,5 @@
 ---
-title: "Methodology"
+title: "Experiments"
 layout: gridlay
 sitemap: false
 permalink: /methodology/
@@ -30,7 +30,7 @@ iframe {
 }
 </style>
 
-# Research
+# Experiments
 
 ## Project 1
 
