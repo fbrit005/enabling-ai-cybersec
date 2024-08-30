@@ -2,7 +2,7 @@
 title: "Experiments"
 layout: gridlay
 sitemap: false
-permalink: /methodology/
+permalink: /experiments/
 ---
 
 <style>
