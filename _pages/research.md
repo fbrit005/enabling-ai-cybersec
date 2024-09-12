@@ -68,7 +68,7 @@ Artificial Intelligence (AI) has become a fundamental tool for cybersecurity res
 To address this, we consider a methodology where we design an AI lecture module that can be integrated into any cybersecurity course. We then present the module to several cybersecurity courses in our institution and assess their performance before and after the lecture. Our AI lecture is composed of a pre-lecture survey, the AI module, live AI examples, and a post-lecture survey.
 
 
-  <img src="https://github.com/fbrit005/enabling-ai-cybersec/blob/285ba673d41a0759ae3f2f1f86e92dd18261b06c/images/NSF-PROJECT3-Figure-Page-1-methodology.drawio%20(1).png" width="100%" style="max-width:1000px"/>
+  <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/source/images/NSF-PROJECT3-Figure-Page-1-methodology.drawio%20(1).png" width="100%" style="max-width:1000px"/>
   
 </div>
 </div>
