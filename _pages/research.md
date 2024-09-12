@@ -47,7 +47,7 @@ We ask the questions: What are the most common correlations between AI and cyber
 
 To that end, we follow a methodology that considers over 5000 research papers from top-tier cybersecurity conferences and journals (e.g., NDSS, USENIX, ACM CCS, IEEE S\&P, and IEEE TIFS). We extracted AI-related keywords and used Natural Language Processing (NLP) techniques to identify AI concepts. Furthermore, we extracted cybersecurity keywords from a cybersecurity pilot course, incorporating additional keywords from cybersecurity academic textbooks. We used the extracted keywords to create a co-occurrence matrix. Finally, we created a specific AI module using the co-occurrence matrix for a cybersecurity course within an academic institution.
 
-<img src=“proj1-meth.png”>
+<p><img src=“proj1-meth.png”></p>
 
 </div>
 </div>
