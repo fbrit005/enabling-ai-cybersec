@@ -32,7 +32,7 @@ iframe {
 
 # Research
 
-## Project 1
+## EAGER SaTC-EDU: Analyzing State-of-the-Art Cybersecurity
 
 
 <div class="jumbotron">
@@ -54,7 +54,7 @@ To that end, we follow a methodology that considers over 5000 research papers fr
 ![Project 1 Methodology](https://github.com/fbrit005/enabling-ai-cybersec/blob/source/images/proj1_meth.png)
 
 
-## Project 2
+## EAGER SaTC-EDU: Evaluating AI in the Cybersecurity Program
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
