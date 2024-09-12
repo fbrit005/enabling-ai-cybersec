@@ -51,7 +51,7 @@ To that end, we follow a methodology that considers over 5000 research papers fr
 </div>
 </div>
 
-![Project 1 Methodology](https://github.com/fbrit005/enabling-ai-cybersec/blob/source/images/proj1_meth.png)
+<p><img src="https://github.com/fbrit005/enabling-ai-cybersec/blob/source/_pages/proj1_meth.png"></p>
 
 
 ## EAGER SaTC-EDU: Evaluating AI in the Cybersecurity Program
