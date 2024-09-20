@@ -9,32 +9,39 @@ permalink: /
 img{
   border-radius: 10px;
 }
-.col-lg-1 {
-  margin-top:50px;
-  margin-bottom:50px;
-  padding:0px;
+iframe {
+  width: 175px;
+  display: inline;
+  vertical-align:middle;
+  <!-- margin-bottom:5px; -->
+  <!-- margin-left:5px; -->
+  <!-- border: 1px solid red; -->
+}
+.col-md-3 {
+  margin:0;
+  padding:0;
+  margin-top:10px;
+  margin-bottom:10px;
   display:block;
   overflow:hidden;
   text-align:center;
   display: table-cell;
-  background: white;
-  border-radius: 20px;
   height: auto;
-}
-iframe {
-  margin:0;
-  padding:0;
-  width: 175px;
-  display: inline;
-  vertical-align: middle;
+  float: none;
+  background:white;
+  border-radius:20px;
+  <!-- border: 1px solid black; -->
 }
 </style>
+
 
 
 # EAGER: SaTC-EDU: Designing and Evaluating Curricular Modules for Inclusive Integration of Artificial Intelligence into Cybersecurity
 
 <div class="jumbotron">
-<div class="col-lg-1 col-md-1">
+<div class="row align-items-end">
+<div class="col-md-12 col-sm-12">
+
 
 In today's ever-changing threat landscape, artificial intelligence (AI) techniques have become a key technology for cybersecurity researchers and practitioners. Integrating AI into cybersecurity curricula is increasingly necessary to better prepare the future cybersecurity workforce. However, this is also a considerable challenge. AI and cybersecurity are both difficult areas of study, appeal to different types of students, and individually require significant commitments within a fixed number of credit hours. Moreover, these challenges pose further barriers for minoritized groups (e.g., Hispanics), many of whom are already on the wrong side of the "digital divide". This EAGER project proposes to address the following questions: how can AI be integrated into an already packed cybersecurity curriculum, and how can this be done without further disadvantaging minoritized groups? Although this project will focus on minoritized groups, the educational modules will be designed to be culturally mindful and inclusive of a broader population and will therefore extend the project's impact to any potential computer scientist who does not conform to the stereotypes and normative expectations of the field. The results of this study have the potential to expand and redefine who pursues cybersecurity, as well as how we integrate it into the curriculum.
 
