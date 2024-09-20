@@ -82,9 +82,17 @@ These results are the topic distribution based on the pre-lecture and post-lectu
 - Pre-lecture Topic Distribution: [View Distribution](https://colab.research.google.com/drive/1410NmX1utoXlFE-sM_5ru5obevfaExDV#scrollTo=oe2rNMR4x4Eb)
 
 - Post-lecture Topic Distribution: [View Distribution](https://colab.research.google.com/drive/1410NmX1utoXlFE-sM_5ru5obevfaExDV#scrollTo=oe2rNMR4x4Eb)
-<figure class="half" style="display:flex">
- <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-1.png" alt="Pre-Lecture Topic 1" style="width:50%">
- <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-2.png" alt="Pre-Lecture Topic 2" style="width:50%">
+<figure class="half">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-1.png" alt="Pre-Lecture Topic 1" style="width:50%">
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-2.png" alt="Pre-Lecture Topic 2" style="width:50%">
+      </td>
+    </tr>
+  </table>
 </figure>
 
 ## Feedback Analysis
