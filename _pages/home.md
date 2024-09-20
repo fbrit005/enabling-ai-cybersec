@@ -9,7 +9,7 @@ permalink: /
 img{
   border-radius: 10px;
 }
-.col-lg-3 {
+.col-lg-12 {
   margin-top:10px;
   margin-bottom:10px;
   padding:0px;
