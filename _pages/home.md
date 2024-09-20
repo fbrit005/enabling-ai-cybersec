@@ -9,7 +9,7 @@ permalink: /
 img{
   border-radius: 10px;
 }
-.col-md-1 {
+.col-md-3 {
   margin-top:10px;
   margin-bottom:10px;
   padding:0px;
@@ -34,7 +34,7 @@ iframe {
 # EAGER: SaTC-EDU: Designing and Evaluating Curricular Modules for Inclusive Integration of Artificial Intelligence into Cybersecurity
 
 <div class="jumbotron">
-<div class="col-lg-1 col-md-1">
+<div class="col-lg-3 col-md-3">
 
 In today's ever-changing threat landscape, artificial intelligence (AI) techniques have become a key technology for cybersecurity researchers and practitioners. Integrating AI into cybersecurity curricula is increasingly necessary to better prepare the future cybersecurity workforce. However, this is also a considerable challenge. AI and cybersecurity are both difficult areas of study, appeal to different types of students, and individually require significant commitments within a fixed number of credit hours. Moreover, these challenges pose further barriers for minoritized groups (e.g., Hispanics), many of whom are already on the wrong side of the "digital divide". This EAGER project proposes to address the following questions: how can AI be integrated into an already packed cybersecurity curriculum, and how can this be done without further disadvantaging minoritized groups? Although this project will focus on minoritized groups, the educational modules will be designed to be culturally mindful and inclusive of a broader population and will therefore extend the project's impact to any potential computer scientist who does not conform to the stereotypes and normative expectations of the field. The results of this study have the potential to expand and redefine who pursues cybersecurity, as well as how we integrate it into the curriculum.
 
