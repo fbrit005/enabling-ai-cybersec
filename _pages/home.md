@@ -17,7 +17,7 @@ iframe {
   <!-- margin-left:5px; -->
   <!-- border: 1px solid red; -->
 }
-.col-md-3 {
+.col-md-1 {
   margin:0;
   padding:0;
   margin-top:10px;
