@@ -55,7 +55,10 @@ Run Concurrence.ipynb to visualize results from the Excel file.
 
 These results are organized as "Computer Security Terms" and "Machine Learning Terms".
 ```
-- Co-occurrence Matrix: [View Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlzZ3fRMdN2P2LnPjoNdOq5nD1CJ10mdDPOeryGm34sT664eso8VKEIItXu-_vYXYtTkl5S7MZBQJ8/pubhtml)
+- Co-occurrence Matrix: [View Full Matrix](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlzZ3fRMdN2P2LnPjoNdOq5nD1CJ10mdDPOeryGm34sT664eso8VKEIItXu-_vYXYtTkl5S7MZBQJ8/pubhtml)
+
+<img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/image_2024-09-20_125728114.png" width="100%" style="max-width:1000px"/>
+
 </div>
 </div>
 </div>
