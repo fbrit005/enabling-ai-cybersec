@@ -32,7 +32,7 @@ iframe {
 
 # Experiments
 
-## Project 1
+## Integrating Artificial Intelligence into Cybersecurity Education: A Comprehensive Data-Driven Approach
 
 
 <div class="jumbotron">
@@ -80,7 +80,7 @@ Once the analysis is complete, an Excel file will be created named "Results.xlsx
 </div>
 </div>
 
-## Project 2
+## Enhancing Cybersecurity Education with Artificial Intelligence Content
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
