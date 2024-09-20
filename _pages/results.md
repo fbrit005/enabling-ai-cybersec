@@ -65,7 +65,7 @@ These results are organized as "Computer Security Terms" and "Machine Learning T
 <div class="jumbotron">
 <div class="row align-items-end">
 <div class="col-md-12 col-sm-12">
-<h4><b>Project 2 Results</b></h4>
+
 <a href="https://github.com/cslfiu/NSF_Eager_SaTC_Project_2" target="_blank"><button class="btn btn-info btn-sm">GIT</button></a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/example_proceeding.pdf" target="_blank"><button class="btn btn-danger btn-sm">PAPER</button></a> 
 
