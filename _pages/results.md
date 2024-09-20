@@ -86,10 +86,10 @@ These results are the topic distribution based on the pre-lecture and post-lectu
   <table>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-1.png" alt="Pre-Lecture Topic 1" style="width:50%">
+        <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-1.png" alt="Pre-Lecture Topic 1" style="width:100%">
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-2.png" alt="Pre-Lecture Topic 2" style="width:50%">
+        <img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/pre-lecture-topic-distro-2.png" alt="Pre-Lecture Topic 2" style="width:100%">
       </td>
     </tr>
   </table>
