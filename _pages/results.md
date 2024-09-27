@@ -128,6 +128,8 @@ Run Survey_Grading.ipynb to visualize our student performance results.
 We consider only the results of survey-to-lecture analysis in our paper.
 ```
 - Survey Results: [View Grades](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2/blob/main/Survey_Grading.ipynb)
+
+<img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/POST-LECUTE-grades.png" width="100%" style="max-width:1000px"/>
 </div>
 </div>
 </div>
