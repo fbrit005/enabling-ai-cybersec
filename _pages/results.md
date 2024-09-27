@@ -117,6 +117,9 @@ These results are based on the last questions of the post-lecture survey regardi
 ```
 - Feedback Analysis Results: [View Analysis](https://github.com/cslfiu/NSF_Eager_SaTC_Project_2/blob/main/Feedback_Analysis.ipynb)
 
+<img src="https://raw.githubusercontent.com/fbrit005/enabling-ai-cybersec/refs/heads/source/images/robertSIA.png" width="100%" style="max-width:1000px"/>
+
+
 ## Survey Grading
 
 ```bash
