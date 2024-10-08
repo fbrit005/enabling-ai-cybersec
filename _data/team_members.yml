@@ -6,7 +6,7 @@
   scholar: https://scholar.google.com/citations?user=LaSyv7EAAAAJ&hl=en
 
 - name: Alejandro Perez Pestaña
-  photo: alejandro-profile.jpg
+  photo: alejandro-profile.png
   info: Undergraduate Student Researcher
   website: https://www.linkedin.com/in/alejandro-perez-pestana-784713159/
 
@@ -14,11 +14,14 @@
   photo: fernando-profile.jpg
   info: Undergraduate Student Researcher
   email: fbrit005@fiu.edu
+  website: https://www.linkedin.com/in/fernando-brito-674915290/
 
 - name: Abbas Acar
   photo: abbas-profile.jpg
   info: Senior Research Scientist at Harbor Labs
+  email: aacar@fiu.edu
   website: https://abbasacar.github.io
+  scholar: https://scholar.google.com/citations?user=-LVF4y0AAAAJ
   
 
 - name: Monique Ross
