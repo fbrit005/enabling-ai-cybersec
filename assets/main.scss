@@ -4,9 +4,9 @@
 
 $baseurl: "{{ site.url }}{{ site.baseurl }}";
 
-@import "bootstrap/_variables";
-@import "bootstrap/_functions";
-@import "bootstrap/_bootswatch";
+@import "bootstrap/variables";
+@import "bootstrap/functions";
+@import "bootstrap/bootswatch";
 // @import "syntax-highlighting";
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 // @import "bootstrap_customization";
