@@ -7,7 +7,7 @@ fi
 
 # Make input lower case
 theme=$(echo "$1" | tr '[:upper:]' '[:lower:]')
-url="https://bootswatch.com/4/$theme/bootstrap.css"
+url="https://bootswatch.com/4/lumen/bootstrap.css"
 
 if ! command -v curl &> /dev/null
 then
@@ -18,7 +18,7 @@ fi
 if curl --head --fail --silent "$url" >/dev/null; then
     echo 'Theme exists at ' $url
     echo 'Downloading...'
-    mv _sass/bootstrap.scss _sass/bootstrap_bak.scss
+    mv _sass/bootstrap.css _sass/bootstrap_bak.scss
     curl $url > _sass/bootstrap.scss
 else
     echo $url 'does not exist, aborting.'
