@@ -6,8 +6,8 @@ if [ "$#" -ne 1 ]; then
 fi
 
 # Make input lower case
-theme=$(echo "$1" | tr '[:upper:]' '[:lower:]')
-url="https://bootswatch.com/4/lumen/bootstrap.css"
+theme=$(echo "lumen" | tr '[:upper:]' '[:lower:]')
+url="https://bootswatch.com/4/$theme/bootstrap.css"
 
 if ! command -v curl &> /dev/null
 then
