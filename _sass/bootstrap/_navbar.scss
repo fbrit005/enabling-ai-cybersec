@@ -287,3 +287,11 @@
     }
   }
 }
+
+@if $enable-light-mode {
+  @include color-mode(light) {
+    .navbar-toggler-icon {
+      --#{$prefix}navbar-toggler-icon-bg: #{escape-svg($navbar-light-toggler-icon-bg)};
+    }
+  }
+}
